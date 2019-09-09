@@ -1,0 +1,132 @@
+[
+  {
+    "ID": 1,
+    "Title": "F2E Week1 - Todo List",
+    "Category": "F2E",
+    "Demo": "http://xxxzz25.nctu.me/F2E_01_TodoList",
+    "Design": "https://bit.ly/2HfaR2M",
+    "Github": "https://github.com/xxxzz25/F2E/tree/master/01TodoList",
+    "SkillTag": ["Pug", "Scss", "Vue.js"],
+    "Img": "F2E_01.png"
+  },
+  {
+    "ID": 2,
+    "Title": "F2E Week2 - Filter",
+    "Category": "F2E",
+    "Demo": "http://xxxzz25.nctu.me/F2E_02_Filter",
+    "Design": "https://bit.ly/2xWPXWN",
+    "Github": "https://github.com/xxxzz25/F2E/tree/master/02Filter",
+    "SkillTag": ["Scss", "Vue.js", "Vue-Router", "VueX"],
+    "Img": "F2E_02.png"
+  },
+  {
+    "ID": 3,
+    "Title": "F2E Week3 - Order",
+    "Category": "F2E",
+    "Demo": "http://xxxzz25.nctu.me/F2E_03_Order",
+    "Design": "http://bit.ly/2tdOhm9",
+    "Github": "https://github.com/xxxzz25/F2E/tree/master/03Order",
+    "SkillTag": ["Pug", "Scss", "Vue.js", "Vue-Router", "V-Charts"],
+    "Img": "F2E_03.png"
+  },
+  {
+    "ID": 4,
+    "Title": "F2E Week4 - Product Gallery",
+    "Category": "F2E",
+    "Demo": "http://xxxzz25.nctu.me/F2E_04_Gallery",
+    "Design": "http://bit.ly/2lxMFQC",
+    "Github": "https://github.com/xxxzz25/F2E/tree/master/04Gallery",
+    "SkillTag": ["Scss"],
+    "Img": "F2E_04.png"
+  },
+  {
+    "ID": 5,
+    "Title": "F2E Week5 - ComicViewer",
+    "Category": "F2E",
+    "Demo": "http://xxxzz25.nctu.me/F2E_05_Comic",
+    "Design": "http://bit.ly/2KBBjWF",
+    "Github": "https://github.com/xxxzz25/F2E/tree/master/05Comic",
+    "SkillTag": ["Scss", "Vue.js", "Vue-Router"],
+    "Img": "F2E_05.png"
+  },
+  {
+    "ID": 6,
+    "Title": "F2E Week6 - Form Validation",
+    "Category": "F2E",
+    "Demo": "http://xxxzz25.nctu.me/F2E_06_Validation",
+    "Design": "http://bit.ly/2udrg3l",
+    "Github": "https://github.com/xxxzz25/F2E/tree/master/06Validation",
+    "SkillTag": ["Scss", "Vue.js", "Vue-Router", "Vee-Validate"],
+    "Img": "F2E_06.png"
+  },
+  {
+    "ID": 8,
+    "Title": "F2E Week8 - ParallaxScrolling",
+    "Category": "F2E",
+    "Demo": "http://xxxzz25.nctu.me/F2E_08_Scrolling",
+    "Design": "http://bit.ly/2uX1m47",
+    "Github": "https://github.com/xxxzz25/F2E/tree/master/08Scrolling",
+    "SkillTag": ["Vue.js", "Vue-Router", "TweenMax", "TweenLineMax"],
+    "Img": "F2E_08.png"
+  },
+  {
+    "ID": 9,
+    "Title": "F2E Week9 - SkillTree",
+    "Category": "F2E",
+    "Demo": "http://xxxzz25.nctu.me/F2E_09_SkillTree",
+    "Design": "https://xd.adobe.com/spec/912f916f-0b05-49ae-66e8-b42b299c19b7-e71e/",
+    "Github": "https://github.com/xxxzz25/F2E/tree/master/09SkillTree",
+    "SkillTag": ["Vue.js", "Scss"],
+    "Img": "F2E_09.png"
+  },
+  {
+    "ID": 10,
+    "Title": "III - Personal",
+    "Category": "III",
+    "Demo": "http://140.115.236.72/demo-personal/BD103/web/C1700340/index.html",
+    "Design": "",
+    "Github": "",
+    "SkillTag": ["CSS", "RWD"],
+    "Img": "iii_personal.png"
+  },
+  {
+    "ID": 11,
+    "Title": "III - Group",
+    "Category": "III",
+    "Demo": "http://140.115.236.72/demo-projects/BD103/BD103G2/",
+    "Design": "",
+    "Github": "https://github.com/utakatanotsuki/meow_project",
+    "SkillTag": ["php", "Java Script", "Scss"],
+    "Img": "iii_group.png"
+  },
+  {
+    "ID": 12,
+    "Title": "牛牛",
+    "Category": "Others",
+    "Demo": "http://xxxzz25.nctu.me/bull",
+    "Design": "",
+    "Github": "https://github.com/xxxzz25/Collection/tree/master/bull",
+    "SkillTag": ["Java Script", "move.js", "Scss"],
+    "Img": "bull.png"
+  },
+  {
+    "ID": 13,
+    "Title": "ShoppingCart",
+    "Category": "Others",
+    "Demo": "http://xxxzz25.nctu.me/shoppingcart",
+    "Design": "",
+    "Github": "https://github.com/xxxzz25/Collection/tree/master/shoppingcart",
+    "SkillTag": ["Vue.js", "Scss", "vue-axios", "vue-loading-overlay", "Vue-Router"],
+    "Img": "shoppingcart.png"
+  },
+  {
+    "ID": 14,
+    "Title": "Hero",
+    "Category": "Others",
+    "Demo": "http://xxxzz25.nctu.me/hero",
+    "Design": "",
+    "Github": "https://github.com/xxxzz25/Collection/tree/master/hero",
+    "SkillTag": ["Vue.js", "Scss", "vue-axios", "vue-loading-overlay", "Vue-Router"],
+    "Img": "hero.png"
+  }
+]
